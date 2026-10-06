@@ -1,0 +1,348 @@
+{
+  "common": {
+    "financialSolutions": "Financial Solutions",
+    "details": "Details",
+    "talkToSpecialist": "TALK TO AN EXPERT",
+    "backHome": "Back to Home",
+    "legal": "Legal"
+  },
+  "nav": {
+    "home": "HOME",
+    "solutions": "SOLUTIONS",
+    "vision": "OUR VISION",
+    "blog": "BLOG",
+    "pay": "TECKSTART PAY",
+    "getStarted": "Get started",
+    "financialSolutions": "Financial Solutions"
+  },
+  "hero": {
+    "badge": "Leadership in Data Intelligence",
+    "titlePrefix": "The New Standard in",
+    "titleHighlight": "AI-Driven Data",
+    "titleSuffix": "Intelligence",
+    "subtitle": "Turn complex data into clear, actionable insights for smarter decisions.",
+    "ctaPrimary": "Get started",
+    "ctaSecondary": "Learn More",
+    "trustSecurity": "Audited Security",
+    "trustCloud": "Fast Cloud Data",
+    "trustB2B": "B2B Ready",
+    "cardLiveStream": "Real-Time Data Stream",
+    "cardLiveStatus": "Connected • 99.99% Accuracy",
+    "cardFinancialIntelligence": "Financial Intelligence",
+    "cardGrowthMetric": "+38.4% Operational Efficiency",
+    "cardAccuracy": "Reliability",
+    "cardAccuracyValue": "100% Auditable",
+    "latencyLabel": "Latency",
+    "pipelineActive": "Data Pipeline Active",
+    "synced": "Synced",
+    "aiEngine": "AI Processing Engine"
+  },
+  "solutions": {
+    "tag": "OUR PILLARS",
+    "title": "Let Your Data Drive Your Business Forward",
+    "subtitle": "Transform complex information into clear, reliable insights that support better decisions and stronger business performance.",
+    "ctaButton": "TALK TO A SPECIALIST",
+    "cards": {
+      "cloud": {
+        "tag": "01",
+        "title": "Cloud-Based Analytics Modernization",
+        "description": "Organize, centralize and streamline your data with secure cloud solutions that offer agility, visibility and efficiency for your business.",
+        "button": "TALK TO AN EXPERT",
+        "features": [
+          "Automated continuous data ingestion and structuring",
+          "Drastic time reduction in financial closing and reconciliation",
+          "Predictive intelligence for anticipating financial scenarios"
+        ]
+      },
+      "versatility": {
+        "tag": "02",
+        "title": "Application Versatility",
+        "description": "Flexible tools that adapt to your workflow, providing clear information and organized processes wherever you are.",
+        "button": "TALK TO AN EXPERT",
+        "features": [
+          "Seamless integration with your existing tools",
+          "Customizable dashboards for executive decision-making",
+          "Multi-platform accessibility anywhere, anytime"
+        ]
+      },
+      "acceleration": {
+        "tag": "03",
+        "title": "Data Acceleration",
+        "description": "Optimize how your company collects, structures and uses data, improving visibility and speeding up strategic decision-making.",
+        "button": "TALK TO AN EXPERT",
+        "features": [
+          "Real-time data pipeline processing",
+          "Instant query execution for complex financial models",
+          "High availability with enterprise-grade reliability"
+        ]
+      },
+      "support": {
+        "tag": "04",
+        "title": "End-to-End Client Support",
+        "description": "We assist your team across every stage — from understanding the problem to implementing solutions — ensuring clarity, agility and reliable results.",
+        "button": "TALK TO AN EXPERT",
+        "features": [
+          "Technical and strategic consulting by senior specialists",
+          "End-to-end guidance from diagnosis to production support",
+          "Continuous training and enablement for your team"
+        ]
+      }
+    }
+  },
+  "pillars": {
+    "tag": "OUR PILLARS",
+    "title": "Let Your Data Drive Your Business Forward",
+    "description": "Transform complex information into clear, reliable insights that support better decisions and stronger business performance.",
+    "details": "Details",
+    "p1": {
+      "title": "Cloud-Based Analytics Modernization",
+      "desc": "Organize, centralize and streamline your data with secure cloud solutions that offer agility, visibility and efficiency for your business."
+    },
+    "p2": {
+      "title": "Application Versatility",
+      "desc": "Flexible tools that adapt to your workflow, providing clear information and organized processes wherever you are."
+    },
+    "p3": {
+      "title": "Data Acceleration",
+      "desc": "Optimize how your company collects, structures and uses data, improving visibility and speeding up strategic decision-making."
+    },
+    "p4": {
+      "title": "End-to-End Client Support",
+      "desc": "We assist your team across every stage — from understanding the problem to implementing solutions — ensuring clarity, agility and reliable results."
+    }
+  },
+  "speed": {
+    "tag": "PERFORMANCE & RIGOR",
+    "title": "Unmatched Speed. Impeccable Reliability.",
+    "p1": "We deliver fast, clear, and reliable analyses so your company can make decisions with confidence.",
+    "p2": "We organize data, structure processes, and create efficient routines that eliminate rework and increase productivity. Everything with precision, transparency, and a strong focus on results.",
+    "cta": "Learn more",
+    "badgeLatency": "Ultra-Low Latency",
+    "badgeLatencyDesc": "Optimized pipelines for agile reporting and immediate strategic decision-making.",
+    "badgePrecision": "Operational Precision",
+    "badgePrecisionDesc": "Continuous data validation and consistency across all accounting and analytical levels.",
+    "badgeRework": "Elimination of Rework",
+    "badgeReworkDesc": "Structuring efficient workflows that enhance enterprise-wide productivity.",
+    "check1": "Reporting Precision",
+    "check2": "Governance Transparency",
+    "check3": "Operational Cost Reduction",
+    "check4": "Cloud Scalability"
+  },
+  "metrics": {
+    "tag": "PROVEN TRACK RECORD",
+    "title": "We Are Proud of These Numbers",
+    "subtitle": "Real indicators proving our consistency, leadership, and operational scale.",
+    "m1": {
+      "number": "28",
+      "label": "Years of Experience",
+      "description": "Financial leadership and operational expertise consolidated in the market."
+    },
+    "m2": {
+      "number": "22",
+      "label": "Strategic Initiatives Led Across Finance Operations",
+      "description": "High-complexity risk, credit, and financial operations projects."
+    },
+    "m3": {
+      "number": "25M+",
+      "label": "Data Points Processed",
+      "description": "Advanced analytics powering strategic decision intelligence."
+    }
+  },
+  "intelligence": {
+    "tag": "DECISION INTELLIGENCE",
+    "title": "Data Intelligence – Transforming Complexity Into Actionable Intelligence",
+    "description": "Turning raw data into insights that drive strategic decisions. Clear insights that enhance strategy, efficiency, and financial decisions.",
+    "cta": "Let’s start"
+  },
+  "contact": {
+    "tag": "CONTACT US",
+    "title": "Let's Start",
+    "subtitle": "Get in touch with our team to transform your data intelligence.",
+    "form": {
+      "nameLabel": "Full Name",
+      "namePlaceholder": "Your full name",
+      "emailLabel": "Corporate Email",
+      "emailPlaceholder": "corporate@company.com",
+      "subjectLabel": "Subject",
+      "subjectPlaceholder": "How can we help?",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell us about your needs...",
+      "submitBtn": "Send Message",
+      "submitButton": "Send Message",
+      "sending": "Sending...",
+      "success": "Email sent successfully! Our team will reach out shortly.",
+      "successMessage": "Message sent successfully!",
+      "sendAnother": "Send another message",
+      "error": "Please fill in all required fields."
+    },
+    "info": {
+      "company": "Teckstart Financial Solutions LLC",
+      "tagline": "Financial Data Intelligence & Operations",
+      "addressLabel": "Corporate Address",
+      "emailLabel": "Service Channel",
+      "phoneLabel": "Direct Phone",
+      "hoursLabel": "Operating Hours",
+      "email": "atendimento@teckstart.net",
+      "address": "8400 NW 33rd Street, Suite 310 PMB 3539 - Doral, FL 33122",
+      "phone": "+1 (786) 210-3268",
+      "hours": "Monday to Friday, 9am to 6pm (EST)"
+    }
+  },
+  "footer": {
+    "tagline": "AI-Driven Data Intelligence & Financial Solutions.",
+    "navigation": "Navigation",
+    "legal": "Legal & Privacy",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy",
+    "terms": "Terms of Service",
+    "allRights": "All rights reserved.",
+    "externalNote": "Access Teckstart Pay Platform"
+  },
+  "solutionsPage": {
+    "title": "Enterprise Solutions",
+    "subtitle": "Cutting-edge architecture and technology engineered to turn fragmented data into sustainable competitive advantages.",
+    "backHome": "Back to Home",
+    "pillarsTitle": "Engineering & Intelligence Pillars",
+    "talkToSpecialist": "TALK TO AN EXPERT"
+  },
+  "visionPage": {
+    "title": "Our Vision",
+    "subtitle": "Building the most reliable enterprise data intelligence and financial automation ecosystem.",
+    "experienceTitle": "28 Years of Operational Excellence",
+    "experienceDesc": "We combine decades of financial leadership, data auditing, and software engineering to deliver solutions that resolve critical bottlenecks in high-growth organizations.",
+    "backHome": "Back to Home",
+    "point1Title": "Governance & Precision",
+    "point1Text": "Structured models ensuring strict data integrity and complete traceability.",
+    "point2Title": "Focus on Results",
+    "point2Text": "Proven efficiency in eliminating rework and accelerating financial routines.",
+    "point3Title": "Continuous Innovation",
+    "point3Text": "Integration with a leading-edge ecosystem, including the Teckstart Pay payment solution.",
+    "missionTitle": "Institutional Mission",
+    "missionDesc": "Demystifying corporate data, empowering executives and managers with top-tier tools for well-founded, secure decision-making.",
+    "ethicsTitle": "Reliability & Ethics",
+    "ethicsDesc": "Enterprise-grade security and ethical governance in managing and processing confidential information."
+  },
+  "blogPage": {
+    "tag": "💡 Insights & Data Intelligence",
+    "title": "Teckstart Blog & Insights",
+    "subtitle": "Analysis, best practices, and trends on AI, Data Engineering, and Financial Operations.",
+    "backHome": "Back to Home",
+    "backToAll": "Back to all articles",
+    "readMore": "Read Full Article",
+    "readTimeSuffix": "read",
+    "share": "Share this article",
+    "copyLink": "Copy Link",
+    "copied": "Link copied!",
+    "featuredTag": "Featured Article",
+    "ctaTitle": "Ready to modernize your company's data intelligence?",
+    "ctaSubtitle": "Talk with our specialists and discover how to build high-performance dashboards and data pipelines.",
+    "ctaButton": "Talk to a Specialist",
+    "seeMoreTitle": "Follow Our Continuous Publications",
+    "seeMoreSubtitle": "We publish in-depth analyses, product releases, and strategic data intelligence insights directly on our LinkedIn page.",
+    "seeMoreBtn": "View more articles on LinkedIn",
+    "postMain": {
+      "slug": "design-for-decisions",
+      "category": "Data & UX / Decision Design",
+      "categoryTag": "Data Intelligence & UI/UX",
+      "title": "Design for Decisions: Best Practices in Dashboard UX/UI",
+      "date": "11 Jul",
+      "readTime": "3 min read",
+      "excerpt": "A business dashboard is only as good as the decisions it enables. Too often, analytics dashboards are cluttered with complex charts, leading to cognitive overload...",
+      "p1": "A business dashboard is only as good as the decisions it enables. Too often, analytics dashboards are cluttered with complex charts, confusing colors, and unnecessary metrics, leading to cognitive overload for the user. A poorly designed dashboard hides critical insights and slows down decision-making. To create value, dashboard design must prioritize clarity, hierarchy, and user experience.",
+      "p2": "Effective dashboard UI/UX design starts with understanding the user's specific goals. A high-level executive needs a summary of strategic KPIs, while an operations manager needs detailed, real-time metrics. Designing with a clear visual hierarchy — placing the most important metrics at the top left and using consistent, meaningful colors — helps users scan the page and understand the data in seconds.",
+      "p3": "Additionally, interactive elements like tooltips, simple filters, and drill-down options allow users to explore data without cluttering the screen. By utilizing modern design systems, clean typography, and responsive layouts, dashboards become intuitive tools rather than overwhelming data dumps. Good design turns data into a clear story, giving teams the confidence to make the right decisions quickly."
+    },
+    "post2": {
+      "slug": "modernizacao-analytics-nuvem",
+      "category": "Data Intelligence",
+      "title": "How Cloud Analytics Modernization Cuts Operational Costs",
+      "date": "Aug 24",
+      "readTime": "5 min read",
+      "excerpt": "Discover how to build modern data pipelines to eliminate information silos and accelerate executive reporting."
+    },
+    "post3": {
+      "slug": "modelagem-risco-decisao",
+      "category": "Finance & Risk",
+      "title": "Risk Modeling and Decision Making in Volatile Environments",
+      "date": "Aug 18",
+      "readTime": "7 min read",
+      "excerpt": "Practical strategies applied across 22+ corporate credit and financial governance initiatives."
+    }
+  },
+  "privacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: August 2026",
+    "backHome": "Back to Home",
+    "section1Title": "1. Commitment to Privacy",
+    "section1Text": "Teckstart Financial Solutions LLC values the privacy of its clients and partners. This Policy describes how we collect, use, store, and protect information provided through our platform and contact channels.",
+    "section2Title": "2. Information Collection and Use",
+    "section2Text": "We only collect information strictly necessary for service delivery, customer support, and continuous enhancement of our data intelligence solutions.",
+    "section3Title": "3. Security and Governance",
+    "section3Text": "We adopt stringent encryption standards, access controls, and international data protection compliance to ensure the integrity of all operations.",
+    "footerText": "Questions or data-related requests can be submitted directly to"
+  },
+  "cookiePage": {
+    "title": "Cookie Policy",
+    "lastUpdated": "Last updated: August 2026",
+    "backHome": "Back to Home",
+    "section1Title": "1. What are Cookies?",
+    "section1Text": "Cookies are small text files stored on your device to ensure proper application functionality, save preferences, and optimize browsing performance.",
+    "section2Title": "2. How We Use Cookies",
+    "section2Text": "We use essential cookies for site functionality, performance cookies for anonymous usability metrics, and preference cookies for language settings (PT/EN).",
+    "footerText": "You can change your cookie preferences at any time through your web browser settings."
+  },
+  "tooltips": {
+    "logo": "Teckstart Financial Solutions • AI-Driven Data Intelligence",
+    "navHome": "Teckstart homepage",
+    "navSolutions": "Explore our 4 pillars of engineering and analytics modernization",
+    "navVision": "Our 28 years of expertise and corporate mission",
+    "navBlog": "Technical articles and best practices on data and UI/UX",
+    "navPay": "Open the external Teckstart Pay platform for payments and expense management",
+    "langPT": "Alterar idioma para Português do Brasil",
+    "langEN": "Switch language to English",
+    "getStarted": "Smooth scroll to the contact form and reach our team",
+    "learnMore": "Explore all detailed corporate solutions",
+    "heroBadge": "Pioneering AI-driven data intelligence",
+    "trustSecurity": "End-to-end encryption and international regulatory compliance",
+    "trustCloud": "High-availability cloud architecture with continuous scalability",
+    "trustB2B": "Solutions engineered for enterprise-grade integration and auditing",
+    "liveStream": "Continuous real-time pipeline monitoring and analytics processing",
+    "growthMetric": "Average efficiency gain reported in corporate initiatives",
+    "latency": "Ultra-fast response time for complex financial and data queries",
+    "accuracy": "100% auditable workflows with comprehensive data traceability",
+    "pipeline": "Synchronized data pipeline with zero discrepancies",
+    "aiEngine": "Advanced processing engine with intelligent decision models",
+    "pillarCloud": "Secure cloud data centralization to accelerate analytics",
+    "pillarVersatility": "Responsive tools embedded in your team's operational workflows",
+    "pillarAcceleration": "Real-time data processing for swift decision-making",
+    "pillarSupport": "Consultative and strategic guidance from diagnosis to production",
+    "pillarDetails": "View full details and benefits of this pillar",
+    "speedLatency": "Low-latency infrastructure for instant data availability",
+    "speedPrecision": "Strict data governance ensuring consistency across all reports",
+    "speedRework": "Automation eliminating manual errors and operational rework",
+    "check1": "Report generation with zero discrepancies",
+    "check2": "Full transparency for audits and compliance",
+    "check3": "Cost optimization with streamlined infrastructure",
+    "check4": "On-demand scalability without service disruptions",
+    "metricYears": "Over two decades of leadership in finance and technology",
+    "metricInitiatives": "Proven leadership across complex enterprise initiatives",
+    "metricData": "Millions of records processed with enterprise security",
+    "intelligenceBanner": "Transform scattered data into strategic clarity for your business",
+    "contactName": "Enter your full or corporate name",
+    "contactEmail": "Enter your corporate email address",
+    "contactSubject": "Briefly describe the purpose of your message",
+    "contactMessage": "Tell us about your data challenges or project requirements",
+    "contactSubmit": "Send request directly to our specialists",
+    "contactAddress": "View our corporate headquarters address in the USA",
+    "contactEmailLink": "Send email to atendimento@teckstart.net",
+    "contactPhoneLink": "Call our corporate customer service hotline",
+    "contactHours": "Standard business operating hours in Eastern Time (EST)",
+    "privacyLink": "Read our privacy policy and data governance practices",
+    "cookiesLink": "Learn how we use cookies to optimize your experience",
+    "shareLinkedin": "Share this article on LinkedIn",
+    "shareTwitter": "Share this article on X (Twitter)",
+    "shareWhatsapp": "Share this article on WhatsApp",
+    "copyLink": "Copy direct link to clipboard",
+    "blogLinkedin": "Access all publications and articles on Teckstart's official LinkedIn feed"
+  }
+}

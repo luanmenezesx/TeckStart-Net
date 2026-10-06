@@ -1,0 +1,348 @@
+{
+  "common": {
+    "financialSolutions": "Soluções Financeiras",
+    "details": "Detalhes",
+    "talkToSpecialist": "Falar com Especialista",
+    "backHome": "Voltar para o Início",
+    "legal": "Legal"
+  },
+  "nav": {
+    "home": "HOME",
+    "solutions": "SOLUÇÕES",
+    "vision": "NOSSA VISÃO",
+    "blog": "BLOG",
+    "pay": "TECKSTART PAY",
+    "getStarted": "Comece já",
+    "financialSolutions": "Soluções Financeiras"
+  },
+  "hero": {
+    "badge": "Liderança em Inteligência de Dados",
+    "titlePrefix": "O Novo Padrão em",
+    "titleHighlight": "Inteligência de Dados",
+    "titleSuffix": "com IA",
+    "subtitle": "Transforme dados complexos em insights claros e acionáveis para decisões mais inteligentes.",
+    "ctaPrimary": "Comece já",
+    "ctaSecondary": "Saiba mais",
+    "trustSecurity": "Segurança Auditada",
+    "trustCloud": "Dados Ágeis em Nuvem",
+    "trustB2B": "Pronto para B2B",
+    "cardLiveStream": "Fluxo de Dados em Tempo Real",
+    "cardLiveStatus": "Conectado • 99.99% Precisão",
+    "cardFinancialIntelligence": "Inteligência Financeira",
+    "cardGrowthMetric": "+38.4% Eficiência Operacional",
+    "cardAccuracy": "Confiabilidade",
+    "cardAccuracyValue": "100% Auditável",
+    "latencyLabel": "Latência",
+    "pipelineActive": "Pipeline de Dados Ativo",
+    "synced": "Sincronizado",
+    "aiEngine": "Motor de Processamento de IA"
+  },
+  "solutions": {
+    "tag": "NOSSOS PILARES",
+    "title": "Deixe Seus Dados Impulsionarem Seu Negócio",
+    "subtitle": "Transforme informações complexas em insights claros e confiáveis para decisões mais inteligentes e melhor performance.",
+    "ctaButton": "FALAR COM ESPECIALISTA",
+    "cards": {
+      "cloud": {
+        "tag": "01",
+        "title": "Modernização de Analytics em Nuvem",
+        "description": "Organize, centralize e simplifique seus dados com soluções seguras em nuvem que oferecem agilidade, visibilidade e eficiência para sua empresa.",
+        "button": "FALAR COM ESPECIALISTA",
+        "features": [
+          "Automação de ingestão e estruturação contínua de dados",
+          "Redução drástica de tempo no fechamento contábil e de conciliação",
+          "Inteligência preditiva para antecipação de cenários financeiros"
+        ]
+      },
+      "versatility": {
+        "tag": "02",
+        "title": "Versatilidade de Aplicação",
+        "description": "Ferramentas flexíveis que se adaptam ao seu fluxo de trabalho, fornecendo informações claras e processos organizados onde você estiver.",
+        "button": "FALAR COM ESPECIALISTA",
+        "features": [
+          "Integração contínua com suas ferramentas existentes",
+          "Painéis customizáveis para tomada de decisão executiva",
+          "Acessibilidade multiplataforma em qualquer lugar"
+        ]
+      },
+      "acceleration": {
+        "tag": "03",
+        "title": "Aceleração de Dados",
+        "description": "Otimize como sua empresa coleta, estrutura e utiliza dados, melhorando a visibilidade e acelerando decisões estratégicas.",
+        "button": "FALAR COM ESPECIALISTA",
+        "features": [
+          "Processamento de pipelines de dados em tempo real",
+          "Execução instantânea de consultas em modelos financeiros complexos",
+          "Alta disponibilidade com confiabilidade de nível corporativo"
+        ]
+      },
+      "support": {
+        "tag": "04",
+        "title": "Suporte ao Cliente Ponta a Ponta",
+        "description": "Apoiamos sua equipe em todas as etapas — do entendimento do problema à implementação das soluções — garantindo clareza, agilidade e resultados confiáveis.",
+        "button": "FALAR COM ESPECIALISTA",
+        "features": [
+          "Assessoria técnica e estratégica por especialistas seniores",
+          "Acompanhamento do diagnóstico à sustentação em produção",
+          "Treinamento e capacitação contínua para sua equipe"
+        ]
+      }
+    }
+  },
+  "pillars": {
+    "tag": "NOSSOS PILARES",
+    "title": "Deixe Seus Dados Impulsionarem Seu Negócio",
+    "description": "Transforme informações complexas em insights claros e confiáveis que sustentam decisões melhores e um desempenho empresarial mais forte.",
+    "details": "Detalhes",
+    "p1": {
+      "title": "Modernização de Analytics em Nuvem",
+      "desc": "Organize, centralize e simplifique seus dados com soluções seguras em nuvem que oferecem agilidade, visibilidade e eficiência para sua empresa."
+    },
+    "p2": {
+      "title": "Versatilidade de Aplicação",
+      "desc": "Ferramentas flexíveis que se adaptam ao seu fluxo de trabalho, fornecendo informações claras e processos organizados onde você estiver."
+    },
+    "p3": {
+      "title": "Aceleração de Dados",
+      "desc": "Otimize como sua empresa coleta, estrutura e utiliza dados, melhorando a visibilidade e acelerando decisões estratégicas."
+    },
+    "p4": {
+      "title": "Suporte ao Cliente Ponta a Ponta",
+      "desc": "Apoiamos sua equipe em todas as etapas — do entendimento do problema à implementação das soluções — garantindo clareza, agilidade e resultados confiáveis."
+    }
+  },
+  "speed": {
+    "tag": "PERFORMANCE E RIGOR",
+    "title": "Velocidade Incomparável. Confiabilidade Impecável.",
+    "p1": "Entregamos análises rápidas, claras e confiáveis para que sua empresa possa tomar decisões com total segurança.",
+    "p2": "Organizamos dados, estruturamos processos e criamos rotinas eficientes que eliminam retrabalho e elevam a produtividade. Tudo com precisão, transparência e forte foco em resultados concretos.",
+    "cta": "Saiba mais",
+    "badgeLatency": "Baixa Latência",
+    "badgeLatencyDesc": "Pipelines otimizados para disponibilização ágil de relatórios e tomada de decisão imediata.",
+    "badgePrecision": "Precisão Operacional",
+    "badgePrecisionDesc": "Governança de dados com validação contínua e consistência em todos os níveis contábeis e analíticos.",
+    "badgeRework": "Eliminação de Retrabalho",
+    "badgeReworkDesc": "Estruturação de rotinas eficientes que aumentam a produtividade corporativa.",
+    "check1": "Precisão em Relatórios",
+    "check2": "Transparência em Governança",
+    "check3": "Redução de Custo Operacional",
+    "check4": "Escalabilidade em Nuvem"
+  },
+  "metrics": {
+    "tag": "RESULTADOS COMPROVADOS",
+    "title": "Temos Orgulho Destes Números",
+    "subtitle": "Indicadores reais que comprovam nossa consistência, liderança e escala operacional.",
+    "m1": {
+      "number": "28",
+      "label": "Anos de Experiência",
+      "description": "Liderança financeira e expertise operacional consolidada no mercado."
+    },
+    "m2": {
+      "number": "22",
+      "label": "Iniciativas Estratégicas Lideradas",
+      "description": "Projetos de alta complexidade em risco, crédito e operações financeiras."
+    },
+    "m3": {
+      "number": "+25M",
+      "label": "Dados Processados",
+      "description": "Analytics avançado potencializando inteligência de decisão estratégica."
+    }
+  },
+  "intelligence": {
+    "tag": "INTELIGÊNCIA DE DECISÃO",
+    "title": "Inteligência de Dados – Transformando Complexidade em Ação",
+    "description": "Transformando dados brutos em insights que orientam decisões estratégicas. Clareza e inteligência que elevam a estratégia, a eficiência e as decisões financeiras da sua organização.",
+    "cta": "Vamos começar"
+  },
+  "contact": {
+    "tag": "FALE CONOSCO",
+    "title": "Vamos Começar",
+    "subtitle": "Entre em contato com nossa equipe para transformar a inteligência de dados da sua empresa.",
+    "form": {
+      "nameLabel": "Nome Completo",
+      "namePlaceholder": "Seu nome completo",
+      "emailLabel": "E-mail Corporativo",
+      "emailPlaceholder": "seu.email@empresa.com",
+      "subjectLabel": "Assunto",
+      "subjectPlaceholder": "Como podemos ajudar?",
+      "messageLabel": "Mensagem",
+      "messagePlaceholder": "Conte-nos sobre sua necessidade...",
+      "submitBtn": "Enviar Mensagem",
+      "submitButton": "Enviar Mensagem",
+      "sending": "Enviando...",
+      "success": "Email enviado com sucesso! Nossa equipe entrará em contato em breve.",
+      "successMessage": "Email enviado com sucesso!",
+      "sendAnother": "Enviar outra mensagem",
+      "error": "Por favor, preencha todos os campos obrigatórios."
+    },
+    "info": {
+      "company": "Teckstart Financial Solutions LLC",
+      "tagline": "Inteligência em Dados Financeiros e Operações",
+      "addressLabel": "Endereço Corporativo",
+      "emailLabel": "Canal de Atendimento",
+      "phoneLabel": "Telefone Direto",
+      "hoursLabel": "Horário de Operação",
+      "email": "atendimento@teckstart.net",
+      "address": "8400 NW 33rd Street, Suite 310 PMB 3539 - Doral, FL 33122",
+      "phone": "+1 (786) 210-3268",
+      "hours": "Segunda a Sexta, 9h às 18h (EST)"
+    }
+  },
+  "footer": {
+    "tagline": "AI-Driven Data Intelligence & Financial Solutions.",
+    "navigation": "Navegação",
+    "legal": "Legal & Privacidade",
+    "privacy": "Política de Privacidade",
+    "cookies": "Política de Cookies",
+    "terms": "Termos de Uso",
+    "allRights": "Todos os direitos reservados.",
+    "externalNote": "Acessar Plataforma Teckstart Pay"
+  },
+  "solutionsPage": {
+    "title": "Soluções Corporativas",
+    "subtitle": "Arquitetura e tecnologia de ponta projetadas para transformar dados dispersos em vantagens competitivas sustentáveis.",
+    "backHome": "Voltar para o Início",
+    "pillarsTitle": "Pilares de Engenharia & Inteligência",
+    "talkToSpecialist": "Falar com Especialista"
+  },
+  "visionPage": {
+    "title": "Nossa Visão",
+    "subtitle": "Construir o ecossistema mais confiável de inteligência de dados e automação financeira corporativa.",
+    "experienceTitle": "28 Anos de Excelência Operacional",
+    "experienceDesc": "Combinamos décadas de experiência em liderança financeira, auditoria de dados e engenharia de software para entregar soluções que resolvem gargalos críticos em organizações de alto crescimento.",
+    "backHome": "Voltar para o Início",
+    "point1Title": "Governança e Precisão",
+    "point1Text": "Modelos estruturados que asseguram integridade estrita e rastreabilidade total de dados.",
+    "point2Title": "Foco em Resultados",
+    "point2Text": "Eficiência comprovada na eliminação de retrabalho e aceleração de rotinas financeiras.",
+    "point3Title": "Inovação Contínua",
+    "point3Text": "Integração com ecossistema de ponta, incluindo a solução de pagamentos Teckstart Pay.",
+    "missionTitle": "Missão Institucional",
+    "missionDesc": "Desmistificar dados corporativos, capacitando executivos e gestores com ferramentas de alto nível para tomada de decisão fundamentada e segura.",
+    "ethicsTitle": "Confiabilidade & Ética",
+    "ethicsDesc": "Segurança de nível corporativo e governança ética na gestão e processamento de informações confidenciais."
+  },
+  "blogPage": {
+    "tag": "💡 Insights & Inteligência de Dados",
+    "title": "Teckstart Blog & Insights",
+    "subtitle": "Análises, boas práticas e tendências sobre IA, Engenharia de Dados e Operações Financeiras.",
+    "backHome": "Voltar para o Início",
+    "backToAll": "Voltar para todos os artigos",
+    "readMore": "Ler Artigo Completo",
+    "readTimeSuffix": "de leitura",
+    "share": "Compartilhar este artigo",
+    "copyLink": "Copiar Link",
+    "copied": "Link copiado!",
+    "featuredTag": "Artigo em Destaque",
+    "ctaTitle": "Pronto para modernizar a inteligência de dados da sua empresa?",
+    "ctaSubtitle": "Descubra como estruturar dashboards claros e pipelines analíticos de alta performance com nossos especialistas.",
+    "ctaButton": "Falar com um Especialista",
+    "seeMoreTitle": "Acompanhe Nossas Publicações Contínuas",
+    "seeMoreSubtitle": "Publicamos análises aprofundadas, lançamentos e inteligência estratégica diretamente em nossa página no LinkedIn.",
+    "seeMoreBtn": "Veja mais artigos no LinkedIn",
+    "postMain": {
+      "slug": "design-for-decisions",
+      "category": "Data & UX / Design de Decisão",
+      "categoryTag": "Data Intelligence & UI/UX",
+      "title": "Design para Decisões: Melhores Práticas em UX/UI de Dashboards",
+      "date": "11 Jul",
+      "readTime": "3 min de leitura",
+      "excerpt": "Um dashboard de negócios só é tão bom quanto as decisões que ele viabiliza. Com muita frequência, painéis de analytics ficam sobrecarregados com gráficos complexos, gerando sobrecarga cognitiva para o usuário...",
+      "p1": "Um dashboard de negócios só é tão bom quanto as decisões que ele viabiliza. Com muita frequência, painéis de analytics ficam sobrecarregados com gráficos complexos, cores confusas e métricas desnecessárias, gerando sobrecarga cognitiva. Um dashboard mal projetado esconde insights críticos e atrasa tomadas de decisão. Para gerar valor real, o design deve priorizar clareza, hierarquia e experiência do usuário.",
+      "p2": "O design eficaz de UI/UX para dashboards começa pela compreensão dos objetivos específicos de quem o utiliza. Um executivo C-level precisa de um resumo de KPIs estratégicos, enquanto um gestor de operações necessita de métricas operacionais detalhadas em tempo real. Projetar com uma hierarquia visual nítida — posicionando as métricas mais importantes em destaque e aplicando cores com significado consistente — permite que a equipe compreenda os dados em segundos.",
+      "p3": "Além disso, elementos interativos como filtros inteligentes, tooltips contextuais e visualizações detalhadas sob demanda permitem explorar dados sem poluição visual. Utilizando design systems modernos, tipografia limpa e layouts responsivos, os painéis se transformam em ferramentas intuitivas. Um bom design transforma dados brutos em histórias claras, dando às lideranças a segurança para agir com rapidez."
+    },
+    "post2": {
+      "slug": "modernizacao-analytics-nuvem",
+      "category": "Inteligência de Dados",
+      "title": "Como a Modernização de Analytics na Nuvem Reduz Custos Operacionais",
+      "date": "24 Ago",
+      "readTime": "5 min de leitura",
+      "excerpt": "Descubra como estruturar pipelines de dados modernos para eliminar silos de informação e acelerar relatórios executivos."
+    },
+    "post3": {
+      "slug": "modelagem-risco-decisao",
+      "category": "Finanças & Risco",
+      "title": "Modelagem de Risco e Tomada de Decisão em Ambientes Voláteis",
+      "date": "18 Ago",
+      "readTime": "7 min de leitura",
+      "excerpt": "Estratégias práticas aplicadas em mais de 22 iniciativas corporativas de crédito e governança financeira."
+    }
+  },
+  "privacyPage": {
+    "title": "Política de Privacidade",
+    "lastUpdated": "Última atualização: Agosto de 2026",
+    "backHome": "Voltar para o Início",
+    "section1Title": "1. Compromisso com a Privacidade",
+    "section1Text": "A Teckstart Financial Solutions LLC valoriza a privacidade de seus clientes e parceiros. Esta Política descreve como coletamos, usamos, armazenamos e protegemos as informações fornecidas por meio de nossa plataforma e canais de contato.",
+    "section2Title": "2. Coleta e Uso de Informações",
+    "section2Text": "Coletamos apenas as informações estritamente necessárias para prestação de serviços, atendimento ao cliente e aprimoramento contínuo de nossas soluções de inteligência de dados.",
+    "section3Title": "3. Segurança e Governança",
+    "section3Text": "Adotamos padrões rigorosos de criptografia, controles de acesso e conformidade internacional de proteção de dados para garantir a integridade de todas as operações.",
+    "footerText": "Dúvidas ou solicitações relacionadas a dados podem ser enviadas diretamente para"
+  },
+  "cookiePage": {
+    "title": "Política de Cookies",
+    "lastUpdated": "Última atualização: Agosto de 2026",
+    "backHome": "Voltar para o Início",
+    "section1Title": "1. O que são Cookies?",
+    "section1Text": "Cookies são pequenos arquivos de texto armazenados no seu dispositivo para permitir o funcionamento adequado da aplicação, salvar preferências e otimizar o desempenho de navegação.",
+    "section2Title": "2. Como Utilizamos Cookies",
+    "section2Text": "Utilizamos cookies essenciais para funcionamento do site, cookies de desempenho para métricas anônimas de usabilidade e cookies de preferência de idioma (PT/EN).",
+    "footerText": "Você pode alterar suas preferências de cookies a qualquer momento através das configurações do seu navegador web."
+  },
+  "tooltips": {
+    "logo": "Teckstart Financial Solutions • Inteligência de Dados com IA",
+    "navHome": "Página inicial da Teckstart",
+    "navSolutions": "Conheça nossas 4 frentes de engenharia e modernização analítica",
+    "navVision": "Nossos 28 anos de expertise e missão institucional",
+    "navBlog": "Artigos técnicos e melhores práticas em dados e UI/UX",
+    "navPay": "Acesse a plataforma externa Teckstart Pay para pagamentos e controle de despesas",
+    "langPT": "Alterar idioma para Português do Brasil",
+    "langEN": "Switch language to English",
+    "getStarted": "Deslizar até o formulário de contato e falar com a equipe",
+    "learnMore": "Ver todas as soluções corporativas detalhadas",
+    "heroBadge": "Pioneirismo em inteligência de dados orientada por IA",
+    "trustSecurity": "Criptografia de ponta a ponta e governança em conformidade internacional",
+    "trustCloud": "Arquitetura em nuvem com alta disponibilidade e escalabilidade contínua",
+    "trustB2B": "Soluções preparadas para integração e auditoria em empresas de grande porte",
+    "liveStream": "Monitoramento contínuo de pipelines e processamento analítico",
+    "growthMetric": "Ganho médio de eficiência reportado em iniciativas corporativas",
+    "latency": "Tempo de resposta ultra-rápido para consultas analíticas complexas",
+    "accuracy": "Processos 100% auditáveis com rastreabilidade total de dados",
+    "pipeline": "Pipeline sincronizado sem divergências ou perdas",
+    "aiEngine": "Processamento avançado com modelos inteligentes de tomada de decisão",
+    "pillarCloud": "Centralização segura de dados em nuvem para acelerar análises",
+    "pillarVersatility": "Ferramentas responsivas integradas ao fluxo operacional da sua equipe",
+    "pillarAcceleration": "Processamento de dados em tempo real para tomada de decisão ágil",
+    "pillarSupport": "Acompanhamento consultivo e estratégico do início à sustentação",
+    "pillarDetails": "Ver detalhes e benefícios completos deste pilar",
+    "speedLatency": "Infraestrutura de baixa latência para disponibilização instantânea",
+    "speedPrecision": "Governança rigorosa que garante consistência em todos os relatórios",
+    "speedRework": "Automação que elimina erros manuais e retrabalho operacional",
+    "check1": "Geração de relatórios com zero inconsistências",
+    "check2": "Transparência total para auditorias e compliance",
+    "check3": "Otimização de custos com infraestrutura eficiente",
+    "check4": "Escala sob demanda sem interrupção de serviços",
+    "metricYears": "Mais de duas décadas de liderança em finanças e tecnologia",
+    "metricInitiatives": "Liderança comprovada em projetos corporativos complexos",
+    "metricData": "Milhões de registros processados com alta segurança",
+    "intelligenceBanner": "Transforme dados dispersos em clareza estratégica para seu negócio",
+    "contactName": "Insira seu nome completo ou corporativo",
+    "contactEmail": "Insira o e-mail corporativo para contato",
+    "contactSubject": "Descreva brevemente o objetivo da sua mensagem",
+    "contactMessage": "Conte-nos sobre seus desafios ou requisitos de dados",
+    "contactSubmit": "Enviar solicitação direta aos nossos especialistas",
+    "contactAddress": "Ver localização da nossa sede corporativa nos EUA",
+    "contactEmailLink": "Enviar e-mail para atendimento@teckstart.net",
+    "contactPhoneLink": "Ligar para nossa central de atendimento",
+    "contactHours": "Horário de atendimento comercial no fuso EST",
+    "privacyLink": "Consulte nossa política de privacidade e proteção de dados",
+    "cookiesLink": "Consulte como utilizamos cookies para otimizar sua experiência",
+    "shareLinkedin": "Compartilhar este artigo no LinkedIn",
+    "shareTwitter": "Compartilhar este artigo no X (Twitter)",
+    "shareWhatsapp": "Compartilhar este artigo no WhatsApp",
+    "copyLink": "Copiar link direto para a área de transferência",
+    "blogLinkedin": "Acessar todas as publicações e artigos no feed oficial da Teckstart no LinkedIn"
+  }
+}
