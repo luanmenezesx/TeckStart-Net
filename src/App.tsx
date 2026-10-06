@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { HashRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { LanguageProvider } from './context/LanguageContext';
 import { PageWrapper } from './components/layout/PageWrapper';
 import { HomePage } from './pages/HomePage';
@@ -13,7 +13,7 @@ import { CookiePolicyPage } from './pages/CookiePolicyPage';
 export const App: React.FC = () => {
   return (
     <LanguageProvider>
-      <BrowserRouter>
+      <HashRouter>
         <PageWrapper>
           <Routes>
             <Route path="/" element={<HomePage />} />
@@ -28,7 +28,7 @@ export const App: React.FC = () => {
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </PageWrapper>
-      </BrowserRouter>
+      </HashRouter>
     </LanguageProvider>
   );
 };

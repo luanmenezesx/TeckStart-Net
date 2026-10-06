@@ -11,7 +11,8 @@ export const HomePage: React.FC = () => {
   const location = useLocation();
 
   useEffect(() => {
-    if (location.hash === '#contato' || location.hash === '#contact') {
+    const searchParams = new URLSearchParams(location.search);
+    if (location.hash === '#contato' || location.hash === '#contact' || searchParams.get('scroll') === 'contato') {
       setTimeout(() => {
         const contactSection = document.getElementById('contato') || document.getElementById('contact');
         if (contactSection) {
@@ -21,9 +22,9 @@ export const HomePage: React.FC = () => {
             firstInput?.focus({ preventScroll: true });
           }, 500);
         }
-      }, 100);
+      }, 150);
     }
-  }, [location.hash]);
+  }, [location]);
 
   return (
     <div className="flex flex-col w-full">
@@ -47,3 +48,4 @@ export const HomePage: React.FC = () => {
     </div>
   );
 };
+export default HomePage;
