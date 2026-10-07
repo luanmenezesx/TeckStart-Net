@@ -23,9 +23,12 @@ export const Tooltip: React.FC<TooltipProps> = ({
   const timeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   const showTooltip = () => {
-    timeoutRef.current = setTimeout(() => {
-      setIsVisible(true);
-    }, delay);
+    // Only show tooltips on devices that support hover (prevents mobile touch interference)
+    if (typeof window !== 'undefined' && window.matchMedia('(hover: hover)').matches) {
+      timeoutRef.current = setTimeout(() => {
+        setIsVisible(true);
+      }, delay);
+    }
   };
 
   const hideTooltip = () => {
@@ -74,10 +77,10 @@ export const Tooltip: React.FC<TooltipProps> = ({
       {isVisible && (
         <div
           role="tooltip"
-          className={`absolute z-50 pointer-events-none transition-all duration-200 transform animate-fade-in ${positionClasses[position]}`}
+          className={`hidden md:block absolute z-50 pointer-events-none transition-all duration-200 transform animate-fade-in ${positionClasses[position]}`}
         >
           <div
-            className={`relative rounded-xl bg-brand-card/95 backdrop-blur-md border border-brand-cyan/40 px-3.5 py-2 text-left shadow-glow-cyan/25 shadow-xl ${maxWidth}`}
+            className={`relative rounded-xl bg-brand-card/98 backdrop-blur-md border border-brand-cyan/40 px-3.5 py-2 text-left shadow-glow-cyan/25 shadow-xl ${maxWidth}`}
           >
             {title && (
               <div className="text-[11px] font-bold text-brand-cyan flex items-center gap-1 mb-0.5 tracking-wide uppercase">

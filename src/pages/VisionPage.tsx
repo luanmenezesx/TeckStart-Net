@@ -12,11 +12,11 @@ export const VisionPage: React.FC = () => {
   }, []);
 
   return (
-    <div className="pt-28 pb-20 bg-brand-darkBg min-h-screen">
+    <div className="pt-24 sm:pt-32 pb-16 sm:pb-20 bg-brand-darkBg min-h-screen">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Back Link */}
-        <div className="mb-8">
+        <div className="mb-6 sm:mb-8">
           <Tooltip content={t('tooltips.navHome')} position="right">
             <Link
               to="/"
@@ -29,95 +29,95 @@ export const VisionPage: React.FC = () => {
         </div>
 
         {/* Vision Header */}
-        <div className="max-w-3xl space-y-4 mb-16">
+        <div className="max-w-3xl space-y-3 sm:space-y-4 mb-10 sm:mb-16">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-brand-card border border-brand-border text-brand-cyan text-xs font-bold uppercase tracking-widest shadow-glow-cyan/15">
             {t('nav.vision')}
           </div>
-          <h1 className="text-3xl sm:text-5xl font-extrabold text-white tracking-tight leading-tight">
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold text-white tracking-tight leading-tight">
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-white via-slate-100 to-brand-cyan">
               {t('visionPage.title')}
             </span>
           </h1>
-          <p className="text-slate-300 text-base sm:text-lg lg:text-xl leading-relaxed">
+          <p className="text-slate-300 text-sm sm:text-base lg:text-xl leading-relaxed">
             {t('visionPage.subtitle')}
           </p>
         </div>
 
         {/* Main Content Grid */}
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 mb-16">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 sm:gap-8 mb-12 sm:mb-16">
           
-          <div className="lg:col-span-7 bg-brand-card/85 backdrop-blur-md rounded-2xl p-8 sm:p-10 border border-brand-border space-y-6 shadow-xl">
-            <div className="flex items-center gap-3.5">
-              <div className="w-13 h-13 rounded-xl bg-brand-darkBg border border-brand-border flex items-center justify-center text-brand-cyan shadow-glow-cyan/20 p-3">
-                <Award className="w-7 h-7" />
+          <div className="lg:col-span-7 bg-brand-card/85 backdrop-blur-md rounded-2xl p-5 sm:p-8 md:p-10 border border-brand-border space-y-5 sm:space-y-6 shadow-xl">
+            <div className="flex items-center gap-3 sm:gap-3.5">
+              <div className="w-11 h-11 sm:w-13 sm:h-13 rounded-xl bg-brand-darkBg border border-brand-border flex items-center justify-center text-brand-cyan shadow-glow-cyan/20 p-2.5 sm:p-3 shrink-0">
+                <Award className="w-6 h-6 sm:w-7 sm:h-7" />
               </div>
-              <h2 className="text-2xl sm:text-3xl font-bold text-white">
+              <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-white">
                 {t('visionPage.experienceTitle')}
               </h2>
             </div>
 
-            <p className="text-slate-300 text-base sm:text-lg leading-relaxed">
+            <p className="text-slate-300 text-sm sm:text-base lg:text-lg leading-relaxed">
               {t('visionPage.experienceDesc')}
             </p>
 
-            <div className="space-y-4 pt-2">
+            <div className="space-y-3 sm:space-y-4 pt-2">
               <Tooltip content={t('tooltips.trustSecurity')} position="top" className="w-full">
-                <div className="flex items-start gap-3 bg-brand-darkBg/80 p-3.5 rounded-xl border border-brand-border hover:border-brand-cyan transition-colors w-full cursor-default">
+                <div className="flex items-start gap-3 bg-brand-darkBg/80 p-3 sm:p-3.5 rounded-xl border border-brand-border hover:border-brand-cyan transition-colors w-full cursor-default">
                   <CheckCircle className="w-5 h-5 text-brand-cyan shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="text-base font-bold text-white">{t('visionPage.point1Title')}</h4>
-                    <p className="text-sm text-slate-300 leading-relaxed">{t('visionPage.point1Text')}</p>
+                    <h4 className="text-sm sm:text-base font-bold text-white">{t('visionPage.point1Title')}</h4>
+                    <p className="text-xs sm:text-sm text-slate-300 leading-relaxed mt-0.5">{t('visionPage.point1Text')}</p>
                   </div>
                 </div>
               </Tooltip>
 
               <Tooltip content={t('tooltips.speedRework')} position="top" className="w-full">
-                <div className="flex items-start gap-3 bg-brand-darkBg/80 p-3.5 rounded-xl border border-brand-border hover:border-brand-cyan transition-colors w-full cursor-default">
+                <div className="flex items-start gap-3 bg-brand-darkBg/80 p-3 sm:p-3.5 rounded-xl border border-brand-border hover:border-brand-cyan transition-colors w-full cursor-default">
                   <CheckCircle className="w-5 h-5 text-brand-cyan shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="text-base font-bold text-white">{t('visionPage.point2Title')}</h4>
-                    <p className="text-sm text-slate-300 leading-relaxed">{t('visionPage.point2Text')}</p>
+                    <h4 className="text-sm sm:text-base font-bold text-white">{t('visionPage.point2Title')}</h4>
+                    <p className="text-xs sm:text-sm text-slate-300 leading-relaxed mt-0.5">{t('visionPage.point2Text')}</p>
                   </div>
                 </div>
               </Tooltip>
 
               <Tooltip content={t('tooltips.navPay')} position="top" className="w-full">
-                <div className="flex items-start gap-3 bg-brand-darkBg/80 p-3.5 rounded-xl border border-brand-border hover:border-brand-cyan transition-colors w-full cursor-default">
+                <div className="flex items-start gap-3 bg-brand-darkBg/80 p-3 sm:p-3.5 rounded-xl border border-brand-border hover:border-brand-cyan transition-colors w-full cursor-default">
                   <CheckCircle className="w-5 h-5 text-brand-cyan shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="text-base font-bold text-white">{t('visionPage.point3Title')}</h4>
-                    <p className="text-sm text-slate-300 leading-relaxed">{t('visionPage.point3Text')}</p>
+                    <h4 className="text-sm sm:text-base font-bold text-white">{t('visionPage.point3Title')}</h4>
+                    <p className="text-xs sm:text-sm text-slate-300 leading-relaxed mt-0.5">{t('visionPage.point3Text')}</p>
                   </div>
                 </div>
               </Tooltip>
             </div>
           </div>
 
-          <div className="lg:col-span-5 space-y-6">
-            <div className="bg-brand-card/85 backdrop-blur-md rounded-2xl p-8 border border-brand-border space-y-4 shadow-xl">
+          <div className="lg:col-span-5 space-y-4 sm:space-y-6">
+            <div className="bg-brand-card/85 backdrop-blur-md rounded-2xl p-5 sm:p-8 border border-brand-border space-y-3 sm:space-y-4 shadow-xl">
               <div className="flex items-center gap-3">
-                <div className="w-10 h-10 rounded-lg bg-brand-blue/20 border border-brand-border flex items-center justify-center text-brand-cyan">
+                <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-lg bg-brand-blue/20 border border-brand-border flex items-center justify-center text-brand-cyan shrink-0">
                   <Target className="w-5 h-5" />
                 </div>
-                <h3 className="text-xl font-bold text-white">
+                <h3 className="text-lg sm:text-xl font-bold text-white">
                   {t('visionPage.missionTitle')}
                 </h3>
               </div>
-              <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
+              <p className="text-slate-300 text-xs sm:text-base leading-relaxed">
                 {t('visionPage.missionDesc')}
               </p>
             </div>
 
-            <div className="bg-brand-card/85 backdrop-blur-md rounded-2xl p-8 border border-brand-border space-y-4 shadow-xl">
+            <div className="bg-brand-card/85 backdrop-blur-md rounded-2xl p-5 sm:p-8 border border-brand-border space-y-3 sm:space-y-4 shadow-xl">
               <div className="flex items-center gap-3">
-                <div className="w-10 h-10 rounded-lg bg-brand-deep/30 border border-brand-border flex items-center justify-center text-brand-cyan">
+                <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-lg bg-brand-deep/30 border border-brand-border flex items-center justify-center text-brand-cyan shrink-0">
                   <Shield className="w-5 h-5" />
                 </div>
-                <h3 className="text-xl font-bold text-white">
+                <h3 className="text-lg sm:text-xl font-bold text-white">
                   {t('visionPage.ethicsTitle')}
                 </h3>
               </div>
-              <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
+              <p className="text-slate-300 text-xs sm:text-base leading-relaxed">
                 {t('visionPage.ethicsDesc')}
               </p>
             </div>
